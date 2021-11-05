@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b55ca6de9fb478695de0ed706952961, type: 3}
+  m_Name: DatabaseConfig
+  m_EditorClassIdentifier: 
+  databaseURL: http://storytime.local.nl/api/
+  projectID: -MCRBgJ4URA6FoKFiklm
+  email: valencio_masaki16@live.nl
+  password: valentino16
+  dataPath: D:/Personal/C#/Unity-items-tutorial/Assets/Data
+  useServer: 0
